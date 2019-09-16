@@ -1,0 +1,24 @@
+First Name :John
+Last Name : Black
+E-mail : johnblack@hotmail.com
+Salary : 20.000
+
+
+First Name :Jack
+Last Name : Ion
+E-mail : ion14@hotmail.com
+Salary : 30.000
+
+
+First Name :Mike
+Last Name : Martin
+E-mail : mmk@hotmail.com
+Salary : 22.000
+
+
+First Name :Liz
+Last Name : Marianou
+E-mail : MLIZ@hotmail.com
+Salary : 25.000
+
+
