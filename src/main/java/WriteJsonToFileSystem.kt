@@ -1,7 +1,7 @@
 import java.io.File
 
 open class WriteJsonToFileSystem {
-    val fileName = """.\src\main\resources\employees.txt"""
+    private val fileName = """.\src\main\resources\employees.txt"""
     private val myFile = File(fileName)
 
     open fun writeJsonToFileSystem(employee: List<Employee>) {
