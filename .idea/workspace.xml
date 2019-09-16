@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d190e63-ef91-4e66-8c49-b659c875effc" name="Default Changelist" comment="" />
+    <list default="true" id="0d190e63-ef91-4e66-8c49-b659c875effc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +84,16 @@
       <option name="presentableId" value="Default" />
       <updated>1568120992109</updated>
       <workItem from="1568120995410" duration="1690000" />
-      <workItem from="1568618288172" duration="5007000" />
+      <workItem from="1568618288172" duration="5289000" />
     </task>
+    <task id="LOCAL-00001" summary="Code beatify">
+      <created>1568624935759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568624935760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code beatify" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code beatify" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
